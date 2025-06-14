@@ -23,12 +23,14 @@ the **data_image.py** file, and the input image of **whole_procedule.py** can be
 If you find this repo useful, please cite our paper. 
 
 ```
-@inproceedings{chen2025abnormal,
-  title={Abnormal data recognition method for wind turbines based on alpha
-channel fusion},
-  author={Yan Chen and Guihua Ban and Tingxiao Ding},
-  ...,
-  year={2025}
+@article{chen2025abnormal,
+  title={Abnormal data recognition method for wind turbines based on alpha channel fusion},
+  author={Chen, Yan and Ban, Guihua and Ding, Tingxiao},
+  journal={Applied Energy},
+  volume={396},
+  pages={126261},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
